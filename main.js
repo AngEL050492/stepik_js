@@ -1,2 +1,1 @@
-let text = "JavaScript is awesome!";
-alert(text);
+alert("JavaScript is awesome!");
